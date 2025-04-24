@@ -1,5 +1,6 @@
 # simple-mp4-player
-A very simple mp4 player that uses minipm4 for demuxer, openh264 as decoder and SDL2 as player.
+A very simple mp4 player that uses <a href="https://github.com/lieff/minimp4">minipm4</a> for demuxer, <a href="https://github.com/cisco/openh264">openh264</a> as decoder and SDL2 as player.
+
 
 To compile you'll need SDL2-devel:
 
